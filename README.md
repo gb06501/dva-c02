@@ -1,3 +1,11 @@
-# AWS DVA-C02 Study Skills
+# AWS DVA-C02 Skills
 
-Repository initialization. The full GitHub Pages study structure is added in the next commit.
+A structured study knowledge base for the AWS Certified Developer - Associate (DVA-C02) exam.
+
+The repository is organized as:
+
+- Domain
+  - Task
+    - Skill
+
+The GitHub Pages site uses **Just the Docs** for hierarchical navigation and search.
